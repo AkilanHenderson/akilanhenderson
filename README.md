@@ -7,7 +7,7 @@ Me chamo Akilan Henderson Ribeiro Gomes, tenho 22 anos e nasci em São Luís - M
 Sou um jovem em início de carreira, buscando oportunidade como jovem aprendiz na área de tecnologia para dar os primeiros passos no mercado de trabalho, com objetivo de ingressar na empresa Sotreq. Tenho experiência com desenvolvimento de projetos acadêmicos e coordenação de projeto de extensão para apresentação de tecnologias inovadoras em escolas.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/akilan-henders-8b331235a/">
+    <a href="https://www.linkedin.com/in/akilan-henderson-8b331235a/">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
